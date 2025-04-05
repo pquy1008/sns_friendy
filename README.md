@@ -4,6 +4,8 @@
 Cho bộ não ăn những món ăn bổ dưỡng, giải trí mỗi ngày. 
 Tránh cho vào đầu những thứ không kiểm soát, tham gia vào các cuộc đua drama, chửi nhau vô bổ.
 
+Bản thân chúng ta nên phải toàn quyền quyết định ăn gì, đọc gì, nghe gì, tiếp nhận cái gì. Tránh việc tiếp nhận thụ động.
+
 ## Ngôn ngữ kỹ thuật
 - Sử dụng AI để phân loại bài viết đó có đến từ nguồn bạn quan tâm hay không? Nếu không, ẩn bài viết khỏi tầm mắt.
 
@@ -26,13 +28,14 @@ Tránh cho vào đầu những thứ không kiểm soát, tham gia vào các cu�
 
 #### 1. Tải mã nguồn:
 
-    git clone https://github.com/ban-ai/facebook-filter-ai-extension.git
+    git clone git@github.com:pquy1008/sns_friendy.git
 
 
 #### 2. Load extension vào chrome:
 
 Mở cài đặt chrome, load extension và tận hưởng
 
+> Dự án vẫn đang treo chờ mạnh thường quân donate, đá vào đít và kích hoạt. :v
 
 ## Tài trợ
 
